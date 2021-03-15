@@ -215,7 +215,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/cave.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/cwoodrow.github.io\/clu\/cave.json"
                 }],
          "type":"tilelayer",
          "visible":true,
