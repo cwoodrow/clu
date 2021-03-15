@@ -26,6 +26,8 @@
          "height":51,
          "id":5,
          "name":"bar",
+         "offsetx":-6.17760617760621,
+         "offsety":-50.9652509652508,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
