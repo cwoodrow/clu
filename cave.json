@@ -21,7 +21,7 @@
          "name":"zone",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":29,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
          "name":"sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":29,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":29,
          "x":0,
          "y":0
@@ -57,7 +57,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -68,7 +68,7 @@
          "name":"meubles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":29,
          "x":0,
          "y":0
@@ -80,7 +80,7 @@
          "name":"objets",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":29,
          "x":0,
          "y":0
