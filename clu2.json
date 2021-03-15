@@ -28,7 +28,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/wsJKzEDmwsc"
                 }],
